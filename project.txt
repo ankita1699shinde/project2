@@ -1,0 +1,18 @@
+Objective of project:
+Prediction customer churn
+highlight the main variable/factors influence customer
+
+
+use various ML algorithms to build prediction models,
+evaluate the accuracy and performance of these models
+
+
+ 
+Conclusion:
+The importance of this type of research in the telecome market is to help companies make more profit.
+Churn predicting is one of the most important source of income in telecom.
+data is split 70% for training and 30% for testing.
+ accuracy of knn: 78%
+ accuracy of support vector machine:75%
+accuracy of logistic regression: 81%
+ 
